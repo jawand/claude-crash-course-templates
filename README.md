@@ -6,6 +6,8 @@ Welcome to the **Claude Crash Course** repository! This repo contains three esse
 
 In this crash course, you will learn how to efficiently build AI applications by leveraging Claude's power. The templates provided here are designed to guide you through the entire development process, from generating a master plan for your project to fully implementing production-ready code.
 
+https://www.youtube.com/watch?v=fMa2zQIkQwM
+
 ### Templates Included:
 
 1. **Generate Master Plan (`1_generate_master_plan.txt`)**:
